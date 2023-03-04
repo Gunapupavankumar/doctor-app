@@ -1,0 +1,46 @@
+.menu-box {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  max-height: 100%;
+  width: 20vw;
+  box-shadow: 0px 8px 40px rgba(112, 156, 206, 0.08);
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: rgb(223, 241, 255);
+}
+
+.btn-menu {
+  font-style: none;
+  background-color: white;
+  border-width: 0px;
+  height: 25px;
+  width: 70%;
+  background-color: transparent;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.btn-link {
+  display: flex;
+  flex-direction: row;
+  padding-left: 50px;
+  align-items: center;
+}
+
+.menu-first {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 250px;
+  align-items: left;
+}
+
+.menu-second {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+
+.header-box {
+  border-right: 1px solid rgb(83, 77, 77);
+}

@@ -1,0 +1,15 @@
+.time {
+  margin-left: 10px;
+  height: 25px;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.active {
+  background-color: #0b69ff;
+  color: white;
+  height: 25px;
+  margin-left: 10px;
+  border-color: none;
+  border-radius: 5px;
+}

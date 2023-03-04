@@ -1,0 +1,170 @@
+.menu-home {
+  height: 90vh;
+  width: 75vw;
+  background-color: aquamarine;
+}
+
+.menu-home-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-btn {
+  height: 30px;
+  width: 200px;
+  background-color: rgb(69, 69, 221);
+  color: white;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.dash-part {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dash-box {
+  background-color: rgb(223, 241, 255);
+  width: 100%;
+  padding: 15px;
+}
+
+.home-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.upcoming-heading {
+  font-size: 12px;
+}
+
+.overview {
+  height: 80%;
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 5px;
+  padding: 5px;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: left;
+}
+
+.btn-join {
+  height: 16px;
+  width: 120px;
+  background-color: rgb(69, 69, 221);
+  color: white;
+  border: none;
+  padding: 3px;
+  border-radius: 5px;
+  font-size: 8px;
+}
+.v-heading {
+  font-size: 10px;
+}
+.btn-view {
+  height: 16px;
+  width: 120px;
+  color: rgb(69, 69, 221);
+  background-color: white;
+  border: none;
+  padding: 3px;
+  border-radius: 5px;
+  font-size: 8px;
+  border: 1px solid rgb(69, 69, 221);
+}
+
+.join {
+  display: flex;
+  flex-direction: column;
+}
+
+.patient-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.patient-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.patient-heading {
+  font-size: 12px;
+}
+
+.btn-today {
+  font-size: 8px;
+  font-weight: bold;
+  background-color: white;
+  border: 1px solid aliceblue;
+  padding: 5px;
+}
+
+.btn-week {
+  font-size: 8px;
+  font-weight: bold;
+  background-color: rgb(60, 60, 224);
+  border: 1px solid aliceblue;
+  color: white;
+  padding: 5px;
+}
+
+.btn-month {
+  font-size: 8px;
+  font-weight: bold;
+  background-color: white;
+  border: 1px solid aliceblue;
+  padding: 5px;
+}
+
+.week-box {
+  display: flex;
+  justify-content: right;
+}
+
+.upcoming {
+  height: 60%;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 500px;
+  padding: 10px;
+}
+.app-heading {
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.app-number {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.app-para {
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+
+.dash-lay {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.dash-book {
+  height: 150px;
+  border: 1px solid rgb(94, 88, 88);
+  border-radius: 5px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin-left: 20px;
+}

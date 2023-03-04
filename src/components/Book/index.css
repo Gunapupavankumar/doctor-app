@@ -1,0 +1,92 @@
+.menu-home {
+  height: 90vh;
+  width: 75vw;
+  background-color: aquamarine;
+}
+
+.menu-home-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-btn {
+  height: 30px;
+  width: 200px;
+  background-color: rgb(69, 69, 221);
+  color: white;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.dash-part {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dash-box {
+  background-color: rgb(223, 241, 255);
+  width: 100%;
+  padding: 15px;
+}
+
+.patient-logo {
+  margin-left: 30px;
+}
+.patient-head-para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+.patient-para {
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-left: 20px;
+}
+
+.confirm {
+  background-color: #0b69ff;
+  height: 24px;
+  width: 200px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.home-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.overview-book {
+  height: 85%;
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.patient-name {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+}
+
+.patient-head {
+  margin-left: 40px;
+  font-family: 'Roboto';
+}
+.doctor {
+  width: 25%;
+}
+
+.choose {
+  width: 40%;
+}

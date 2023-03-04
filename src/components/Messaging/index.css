@@ -1,0 +1,50 @@
+.menu-home {
+  height: 90vh;
+  width: 75vw;
+  background-color: aquamarine;
+}
+
+.menu-home-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-btn {
+  height: 30px;
+  width: 200px;
+  background-color: rgb(69, 69, 221);
+  color: white;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.dash-part {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dash-box {
+  background-color: rgb(223, 241, 255);
+  width: 100%;
+  padding: 15px;
+}
+
+.home-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.overview {
+  height: 20%;
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 5px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
